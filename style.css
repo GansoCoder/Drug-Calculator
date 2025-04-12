@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+}
+
+.main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    text-align: center;
+}
+
+.valor {
+    margin: 20%;
+}
+
+.escreve {
+    padding: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
